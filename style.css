@@ -10,6 +10,14 @@ h1 {
 	font-size: 48px;
 }
 
+h2 {
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+}
+
 .game {
 	/*background-color: white;*/
 	text-align: center;
@@ -30,3 +38,20 @@ h1 {
 	color: white;
 	font-size: 48px;
 }
+
+.reset{
+	width: 320px;
+	height: 50px;
+	text-align: center;
+	font-size: 24px;
+	color: black;
+	background-color: white;
+	visibility: hidden;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+
+
